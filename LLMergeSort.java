@@ -36,6 +36,8 @@ public class LLMergeSort {
             temp = temp.next;
         }
 
+        System.out.println();
+
     }
 
     public Node midNode(Node head) {
